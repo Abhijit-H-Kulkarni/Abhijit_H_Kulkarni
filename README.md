@@ -1,1 +1,1 @@
-Just a wensite.
+Just a personal website.
